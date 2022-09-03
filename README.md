@@ -14,7 +14,7 @@ Meander Pattern using Snap SVG
 
 ## Setup App
 
-`export FLASK_APP=anim`
+`export FLASK_APP=app`
 
 ## Start App
 
